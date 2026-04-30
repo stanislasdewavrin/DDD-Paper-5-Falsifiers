@@ -1,0 +1,88 @@
+{
+  "ell_planck_m": 1.616e-35,
+  "lambda_bounds_m": [
+    1e-05,
+    0.0001,
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0,
+    100000.0
+  ],
+  "alpha_Y_max": [
+    100.0,
+    1.0,
+    0.1,
+    0.01,
+    0.005,
+    0.0005,
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "results": [
+    {
+      "label": "natural lattice (alpha_D = beta_fb = 1)",
+      "alpha_D": 1.0,
+      "beta_fb": 1.0,
+      "lambda_phys_m": 1.616e-35,
+      "excluded_at_alpha_Y_1": false
+    },
+    {
+      "label": "weak feedback",
+      "alpha_D": 0.15,
+      "beta_fb": 0.01,
+      "lambda_phys_m": 6.258741087471186e-35,
+      "excluded_at_alpha_Y_1": false
+    },
+    {
+      "label": "very weak feedback",
+      "alpha_D": 1.0,
+      "beta_fb": 1e-30,
+      "lambda_phys_m": 1.616e-20,
+      "excluded_at_alpha_Y_1": false
+    },
+    {
+      "label": "ultra-weak feedback",
+      "alpha_D": 1.0,
+      "beta_fb": 1e-60,
+      "lambda_phys_m": 1.616e-05,
+      "excluded_at_alpha_Y_1": false
+    },
+    {
+      "label": "ultra-strong feedback",
+      "alpha_D": 1.0,
+      "beta_fb": 1e+60,
+      "lambda_phys_m": 1.616e-65,
+      "excluded_at_alpha_Y_1": false
+    },
+    {
+      "label": "Planck-anchored alpha_D / R_0 = 4 pi",
+      "alpha_D": 12.566370614359172,
+      "beta_fb": 1.0,
+      "lambda_phys_m": 5.728570846126628e-35,
+      "excluded_at_alpha_Y_1": false
+    },
+    {
+      "alpha_D": 1.0,
+      "beta_fb_min_for_short_yukawa": 2.6114559999999994e-60,
+      "beta_fb_max_for_long_yukawa": 2.611456e-80
+    },
+    {
+      "alpha_D": 12.566370614359172,
+      "beta_fb_min_for_short_yukawa": 3.281652393909194e-59,
+      "beta_fb_max_for_long_yukawa": 3.281652393909195e-79
+    },
+    {
+      "alpha_D": 0.1,
+      "beta_fb_min_for_short_yukawa": 2.6114559999999996e-61,
+      "beta_fb_max_for_long_yukawa": 2.6114560000000004e-81
+    }
+  ]
+}

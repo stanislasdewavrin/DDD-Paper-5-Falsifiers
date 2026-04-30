@@ -1,0 +1,73 @@
+{
+  "C_DDD_fitted": 2.3382466547269947,
+  "C_PPN_GR": 1.4726215563702154,
+  "ratio_DDD_to_PPN": 1.5878123232763286,
+  "fit_window_b_over_beta": "[50, infinity]",
+  "data_points": [
+    {
+      "b_over_beta": 2.0,
+      "rel_dev": 1.052362779224274,
+      "beta_over_b": 0.5
+    },
+    {
+      "b_over_beta": 3.0,
+      "rel_dev": 1.8036394654060683,
+      "beta_over_b": 0.3333333333333333
+    },
+    {
+      "b_over_beta": 5.0,
+      "rel_dev": 1.2560622753191566,
+      "beta_over_b": 0.2
+    },
+    {
+      "b_over_beta": 7.0,
+      "rel_dev": 0.5844134232593752,
+      "beta_over_b": 0.14285714285714285
+    },
+    {
+      "b_over_beta": 10.0,
+      "rel_dev": 0.3307547268450614,
+      "beta_over_b": 0.1
+    },
+    {
+      "b_over_beta": 15.0,
+      "rel_dev": 0.19256203869399413,
+      "beta_over_b": 0.06666666666666667
+    },
+    {
+      "b_over_beta": 20.0,
+      "rel_dev": 0.13562424637762083,
+      "beta_over_b": 0.05
+    },
+    {
+      "b_over_beta": 30.0,
+      "rel_dev": 0.08462344967751612,
+      "beta_over_b": 0.03333333333333333
+    },
+    {
+      "b_over_beta": 50.0,
+      "rel_dev": 0.04663790612043951,
+      "beta_over_b": 0.02
+    },
+    {
+      "b_over_beta": 100.0,
+      "rel_dev": 0.024094931914391167,
+      "beta_over_b": 0.01
+    },
+    {
+      "b_over_beta": 200.0,
+      "rel_dev": 0.011849034830320286,
+      "beta_over_b": 0.005
+    },
+    {
+      "b_over_beta": 500.0,
+      "rel_dev": 0.004669029334911567,
+      "beta_over_b": 0.002
+    },
+    {
+      "b_over_beta": 1000.0,
+      "rel_dev": 0.0023028370505302678,
+      "beta_over_b": 0.001
+    }
+  ]
+}
