@@ -1,0 +1,79 @@
+Cover Letter --- submission of:
+"Discrete Drainage Dynamics V:
+Candidate Predictions and Falsification Windows
+of the Gravitational Sector"
+
+Stanislas de Wavrin
+Independent researcher
+dewavrin.iphone@gmail.com
+2 May 2026
+
+To the Editor,
+
+I would like to submit the enclosed manuscript for consideration. Below
+I summarise the contribution and why I believe it is timely.
+
+==========================================================================
+SUMMARY
+==========================================================================
+
+I collect the falsifiable predictions of the DDD gravitational sector: bounds on Yukawa-type fifth forces from the cascade-throttled mobility, feedback effects in binary systems, and Eot-Wash-style equivalence-principle tests. Each prediction is quantified with the relevant experimental sensitivity. The aim is to give the community explicit handles on which the framework can be tested or ruled out.
+
+==========================================================================
+WHY THIS MATTERS
+==========================================================================
+
+A theoretical framework gains scientific status only when it makes falsifiable predictions. This paper consolidates those for the gravitational sector and identifies the most discriminating experiments.
+
+==========================================================================
+NOVELTY
+==========================================================================
+
+Quantitative Yukawa bounds from the DDD mobility. Predictions for binary feedback. Eot-Wash sensitivity analysis. Identification of the most discriminating near-future experiments.
+
+==========================================================================
+SUBMISSION STRATEGY
+==========================================================================
+
+This manuscript is Paper V of a planned ten-paper series on
+Discrete Drainage Dynamics (DDD). The series is organised so each
+paper has a clean, falsifiable claim of its own; the present paper
+can be read independently of the others, with explicit cross-
+references to its companions where needed.
+
+I am happy to follow whichever route the editor prefers: standalone
+submission of the present paper, or coordinated submission as part
+of the series.
+
+==========================================================================
+DATA AND CODE
+==========================================================================
+
+All simulation code, data, and analysis scripts accompanying this
+paper are available in the supplementary material and will be
+released on the author's public repository upon acceptance.
+
+==========================================================================
+SUGGESTED REFEREES
+==========================================================================
+
+[To be filled by the author at the time of submission, with
+2--3 referees working in the relevant area.]
+
+==========================================================================
+DECLARATIONS
+==========================================================================
+
+  - The author declares no competing financial interests.
+  - The work has not been previously published, and is not under
+    consideration elsewhere.
+  - All simulations were performed by the author on a personal
+    computer.
+  - The author is an independent researcher with no institutional
+    affiliation.
+
+I look forward to your feedback.
+
+With kind regards,
+
+Stanislas de Wavrin
